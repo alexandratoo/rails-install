@@ -13,11 +13,21 @@
 #### Test - should return rvm is a function
 ```type rvm | head -n 1```
 
-#### Install Ruby 2.1.5
+#### Install Latest Stable Ruby
 
-```rvm install 2.1.5```
+* Depending on your Gemfile, you may need to install a specific version
 
-```rvm use 2.1.5```
+Installs the latest stable version:
+
+```rvm install stable```
+
+Lists installed versions:
+
+```rvm list```
+
+Use a specific version:
+
+```rvm use 2.2.3```
 
 #### Intalling Rails
 
