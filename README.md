@@ -19,7 +19,7 @@
 
 Installs the latest stable version:
 
-```rvm install stable```
+```rvm install 2.1.5```
 
 Lists installed versions:
 
@@ -27,7 +27,7 @@ Lists installed versions:
 
 Use a specific version:
 
-```rvm use 2.2.3```
+```rvm use 2.1.5```
 
 #### Intalling Rails
 
