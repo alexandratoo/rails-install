@@ -12,12 +12,13 @@ If you're using `fish` follow this guide: https://rvm.io/integration/fish
 
 If you're using `zsh` follow this guide: https://rvm.io/integration/zsh
 
-```rvm user gemsets```
-
 #### Test - should return rvm is a function
 ```type rvm | head -n 1```
 
-#### Install Latest Stable Ruby
+#### Configure gems:
+```rvm user gemsets```
+
+#### Install Ruby
 
 * Depending on your Gemfile, you may need to install a specific version
 
