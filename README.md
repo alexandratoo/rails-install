@@ -9,6 +9,7 @@
 ```source ~/.rvm/scripts/rvm```
 
 If you're using `fish` follow this guide: https://rvm.io/integration/fish
+
 If you're using `zsh` follow this guide: https://rvm.io/integration/zsh
 
 ```rvm user gemsets```
