@@ -17,7 +17,7 @@
 
 * Depending on your Gemfile, you may need to install a specific version
 
-Installs the latest stable version:
+Installs ruby version 2.1.5:
 
 ```rvm install 2.1.5```
 
