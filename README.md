@@ -22,9 +22,9 @@ If you're using `zsh` follow this guide: https://rvm.io/integration/zsh
 
 * Depending on your Gemfile, you may need to install a specific version
 
-Installs ruby version 2.2.5:
+Installs ruby version 2.1.5:
 
-```rvm install 2.2.5```
+```rvm install 2.1.5```
 
 Lists installed versions:
 
@@ -32,7 +32,7 @@ Lists installed versions:
 
 Use a specific version:
 
-```rvm use 2.2.5```
+```rvm use 2.1.5```
 
 #### Intalling Rails
 
