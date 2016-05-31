@@ -12,7 +12,7 @@ If you're using `fish` follow this guide: https://rvm.io/integration/fish
 
 If you're using `zsh` follow this guide: https://rvm.io/integration/zsh
 
-#### Test - should return rvm is a function
+#### Test - should return rvm is a function, if not, the rvm is not configured!
 ```type rvm | head -n 1```
 
 #### Configure gems:
