@@ -1,5 +1,7 @@
 # rails-install
 
+`brew upgrade`
+
 ## First, Intall RVM
 
 ```curl -sSL https://get.rvm.io | bash -s stable --rails```
